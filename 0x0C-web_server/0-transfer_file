@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Accepts four arguments:
 #+    The path to the file to be transferred.
 #+    The IP of the server to transfer the file to.
