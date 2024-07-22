@@ -1,11 +1,5 @@
 # 0x0E. Web stack debugging #1
 
-## Resources:books:
-Read or watch:
-
----
-## Learning Objectives:bulb:
-What you should learn from this project:
 
 ---
 
@@ -17,6 +11,3 @@ What you should learn from this project:
 * Using what you did for task #0, make your fix short and sweet.
 
 ---
-
-## Author
-* **Dairo Facundo Duarte** - [dairof7](https://github.com/dairof7)
